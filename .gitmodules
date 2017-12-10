@@ -1,0 +1,3 @@
+[submodule "qtcharts"]
+	path = qtcharts
+	url = https://github.com/qt/qtcharts.git
