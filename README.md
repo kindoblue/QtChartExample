@@ -6,15 +6,16 @@ Install Qt5. You can do easily with `brew`
 
 ```
 brew install qt5
+brew link qt5 --force
 ```
 
 Add some missing links that should be really there
 
 ```
-ln -s /usr/local/Cellar/qt5/5.9.3/mkspecs /usr/local/mkspecs &&
-ln -s /usr/local/Cellar/qt5/5.9.3/plugins /usr/local/plugins
+sudo ln -s /usr/local/Cellar/qt/5.10.0/mkspecs /usr/local/mkspecs &&
+sudo ln -s /usr/local/Cellar/qt/5.10.0/plugins /usr/local/plugins
 ```
-(assuming the version 5.9.3 was installed, otherwise adjust)
+(assuming the version 5.10.0 was installed, otherwise adjust)
 
 
 ----
