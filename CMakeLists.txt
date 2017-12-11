@@ -10,7 +10,7 @@ set(CMAKE_AUTOMOC ON)
 # brew link --force qt5 && ln -s /usr/local/Cellar/qt5/5.9.3/mkspecs /usr/local/mkspecs &&
 # ln -s /usr/local/Cellar/qt5/5.9.3/plugins /usr/local/plugins
 
-find_package(Qt5 COMPONENTS Core Gui Widgets Charts Qml Quick REQUIRED)
+find_package(Qt5 COMPONENTS Core Gui Widgets Charts Qml Quick Multimedia REQUIRED)
 
 add_executable(AreaChart qtcharts/examples/charts/areachart/main.cpp)
 
@@ -117,7 +117,7 @@ add_executable(QMLChart qtcharts/examples/charts/qmlchart/main.cpp
         qtcharts/examples/charts/qmlchart/resources.qrc)
 
 target_link_libraries(AreaChart Qt5::Core Qt5::Widgets Qt5::Charts)
-target_link_libraries(Audio Qt5::Core Qt5::Widgets Qt5::Charts)
+target_link_libraries(Audio Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Multimedia)
 target_link_libraries(BarChart Qt5::Core Qt5::Widgets Qt5::Charts)
 target_link_libraries(BarModelMapper Qt5::Core Qt5::Widgets Qt5::Charts)
 target_link_libraries(BoxPlotChart Qt5::Core Qt5::Widgets Qt5::Charts)
