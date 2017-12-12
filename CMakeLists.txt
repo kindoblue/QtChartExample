@@ -116,6 +116,48 @@ add_executable(QMLCandleStick qtcharts/examples/charts/qmlcandlestick/main.cpp
 add_executable(QMLChart qtcharts/examples/charts/qmlchart/main.cpp
         qtcharts/examples/charts/qmlchart/resources.qrc)
 
+add_executable(QMLCustomization qtcharts/examples/charts/qmlcustomizations/main.cpp
+        qtcharts/examples/charts/qmlcustomizations/resources.qrc)
+
+add_executable(QMLCustomLegend qtcharts/examples/charts/qmlcustomlegend/main.cpp
+        qtcharts/examples/charts/qmlcustomlegend/resources.qrc)
+
+add_executable(QMLF1Legend qtcharts/examples/charts/qmlf1legends/main.cpp
+        qtcharts/examples/charts/qmlf1legends/resources.qrc)
+
+add_executable(QMLOscilloscope qtcharts/examples/charts/qmloscilloscope/main.cpp
+        qtcharts/examples/charts/qmloscilloscope/datasource.cpp
+        qtcharts/examples/charts/qmloscilloscope/resources.qrc)
+
+add_executable(QMLPieChart qtcharts/examples/charts/qmlpiechart/main.cpp
+        qtcharts/examples/charts/qmlpiechart/resources.qrc)
+
+add_executable(QMLPolarChart qtcharts/examples/charts/qmlpolarchart/main.cpp
+        qtcharts/examples/charts/qmlpolarchart/resources.qrc)
+
+add_executable(QMLWeather qtcharts/examples/charts/qmlweather/main.cpp
+        qtcharts/examples/charts/qmlweather/resources.qrc)
+
+add_executable(ScatterChart qtcharts/examples/charts/scatterchart/main.cpp
+        qtcharts/examples/charts/scatterchart/chartview.cpp)
+
+add_executable(ScatterInteractions qtcharts/examples/charts/scatterinteractions/main.cpp
+        qtcharts/examples/charts/scatterinteractions/chartview.cpp)
+
+add_executable(SplineChart qtcharts/examples/charts/splinechart/main.cpp)
+
+add_executable(StackedBarChart qtcharts/examples/charts/stackedbarchart/main.cpp)
+
+add_executable(StackedBarChartDrilldown qtcharts/examples/charts/stackedbarchartdrilldown/main.cpp
+        qtcharts/examples/charts/stackedbarchartdrilldown/drilldownchart.cpp
+        qtcharts/examples/charts/stackedbarchartdrilldown/drilldownseries.cpp)
+
+add_executable(TemperatureRecords qtcharts/examples/charts/temperaturerecords/main.cpp)
+
+add_executable(ZoomLineChart qtcharts/examples/charts/zoomlinechart/main.cpp
+        qtcharts/examples/charts/zoomlinechart/chartview.cpp
+        qtcharts/examples/charts/zoomlinechart/chart.cpp)
+
 target_link_libraries(AreaChart Qt5::Core Qt5::Widgets Qt5::Charts)
 target_link_libraries(Audio Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Multimedia)
 target_link_libraries(BarChart Qt5::Core Qt5::Widgets Qt5::Charts)
@@ -151,3 +193,17 @@ target_link_libraries(QMLAxes Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Qml Qt5::Q
 target_link_libraries(QMLBoxPlot Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Qml Qt5::Quick)
 target_link_libraries(QMLCandleStick Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Qml Qt5::Quick)
 target_link_libraries(QMLChart Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Qml Qt5::Quick)
+target_link_libraries(QMLCustomization Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Qml Qt5::Quick)
+target_link_libraries(QMLCustomLegend Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Qml Qt5::Quick)
+target_link_libraries(QMLF1Legend Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Qml Qt5::Quick)
+target_link_libraries(QMLOscilloscope Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Qml Qt5::Quick)
+target_link_libraries(QMLPieChart Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Qml Qt5::Quick)
+target_link_libraries(QMLPolarChart Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Qml Qt5::Quick)
+target_link_libraries(QMLWeather Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Qml Qt5::Quick)
+target_link_libraries(ScatterChart Qt5::Core Qt5::Widgets Qt5::Charts)
+target_link_libraries(ScatterInteractions Qt5::Core Qt5::Widgets Qt5::Charts)
+target_link_libraries(SplineChart Qt5::Core Qt5::Widgets Qt5::Charts)
+target_link_libraries(StackedBarChart Qt5::Core Qt5::Widgets Qt5::Charts)
+target_link_libraries(StackedBarChartDrilldown Qt5::Core Qt5::Widgets Qt5::Charts)
+target_link_libraries(TemperatureRecords Qt5::Core Qt5::Widgets Qt5::Charts)
+target_link_libraries(ZoomLineChart Qt5::Core Qt5::Widgets Qt5::Charts)
