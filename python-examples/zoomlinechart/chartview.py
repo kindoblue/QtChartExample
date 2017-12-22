@@ -11,13 +11,14 @@ class ChartView(QChartView):
         self.is_touching = False
         self.setRubberBand(QChartView.RectangleRubberBand)
 
+
     def viewportEvent(self, event):
 
-        if event.type == QEvent.TouchBegin:
+        if event.type() == QEvent.TouchBegin:
             self.is_touching = True
-            self.chart.setAnimationOptions(QChart.NoAnimation)
+            self.chart().setAnimationOptions(QChart.NoAnimation)
 
-        return super(QGraphicsView, self).viewportEvent(event)
+        return super(QChartView, self).viewportEvent(event)
 
     def mousePressEvent(self, event):
         if self.is_touching:

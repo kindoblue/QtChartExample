@@ -7,27 +7,30 @@ class Chart(QChart):
 
     def __init__(self):
         super(QChart, self).__init__()
+
+        # Seems that QGraphicsView (QChartView) does not grab gestures.
+        # They can only be grabbed here in the QGraphicsWidget (QChart).
         self.grabGesture(Qt.PanGesture)
         self.grabGesture(Qt.PinchGesture)
 
-    def scene_event(self, event):
+    def sceneEvent(self, event):
 
-        if event.type == QEvent.Gesture:
-            return self.gesture_event(event)
+        if event.type() in (QEvent.Gesture,):
+            return self.gestureEvent(event)
 
-        return QChart.event(event)
+        return super(QChart, self).event(event)
 
-    def gesture_event(self, event):
+    def gestureEvent(self, event):
 
-        pan = event.getGesture(Qt.PanGesture)
+        pan = event.gesture(Qt.PanGesture)
 
         if pan:
             QChart.scroll(pan.delta().x(), pan.delta().y())
 
-        pinch = event.getGesture(Qt.PinchGesture)
+        pinch = event.gesture(Qt.PinchGesture)
 
         if pinch:
             if pinch.changeFlags() & QPinchGesture.ScaleFactorChanged:
-                QChart.zoom(pinch.scaleFactor())
+                self.zoom(pinch.scaleFactor())
 
         return True

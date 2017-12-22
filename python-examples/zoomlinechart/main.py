@@ -1,8 +1,10 @@
 from PyQt5.QtCore import Qt, QPointF
 from PyQt5.Qt import QMainWindow, QApplication, QPainter
 from PyQt5.QtChart import QChart, QChartView, QLineSeries
+
 from chart import Chart
 from chartview import ChartView
+
 import math
 import random
 
@@ -29,6 +31,7 @@ if __name__ == '__main__':
     chartView.setRenderHint(QPainter.Antialiasing)
 
     window = QMainWindow()
+
     window.setCentralWidget(chartView)
     window.resize(400, 300)
     window.grabGesture(Qt.PanGesture)
