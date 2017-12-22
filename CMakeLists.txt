@@ -158,6 +158,9 @@ add_executable(ZoomLineChart qtcharts/examples/charts/zoomlinechart/main.cpp
         qtcharts/examples/charts/zoomlinechart/chartview.cpp
         qtcharts/examples/charts/zoomlinechart/chart.cpp)
 
+add_executable(RealTimeCurve other-examples/realtimecurve/main.cpp
+        other-examples/realtimecurve/RealTimeCurveQChartWidget.cpp)
+
 target_link_libraries(AreaChart Qt5::Core Qt5::Widgets Qt5::Charts)
 target_link_libraries(Audio Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Multimedia)
 target_link_libraries(BarChart Qt5::Core Qt5::Widgets Qt5::Charts)
@@ -207,3 +210,4 @@ target_link_libraries(StackedBarChart Qt5::Core Qt5::Widgets Qt5::Charts)
 target_link_libraries(StackedBarChartDrilldown Qt5::Core Qt5::Widgets Qt5::Charts)
 target_link_libraries(TemperatureRecords Qt5::Core Qt5::Widgets Qt5::Charts)
 target_link_libraries(ZoomLineChart Qt5::Core Qt5::Widgets Qt5::Charts)
+target_link_libraries(RealTimeCurve Qt5::Core Qt5::Widgets Qt5::Charts)
