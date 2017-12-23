@@ -113,7 +113,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd3e73d7-02a1-4dec-a818-a8d9fd2d7006" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/python-examples/datetimeaxis/main.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -124,13 +123,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python-examples/datetimeaxis/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1058">
-              <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+            <state relative-caret-position="299">
+              <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="e#0#87#0" expanded="true" />
               </folding>
@@ -162,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/python-examples/candlestickchart/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="66" column="9" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="66" selection-end-column="9" />
+              <caret line="66" column="9" lean-forward="false" selection-start-line="56" selection-start-column="4" selection-end-line="66" selection-end-column="9" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -186,7 +186,7 @@
         <entry file="file://$PROJECT_DIR$/python-examples/dynamicspline/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="11" column="12" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="12" />
+              <caret line="11" column="12" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="12" />
               <folding>
                 <element signature="e#0#56#0" expanded="true" />
               </folding>
@@ -387,65 +387,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DatetimeAxis">
-    <configuration name="AreaChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="AreaChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+  <component name="RunManager" selected="Application.HorizontalBarChart">
+    <configuration name="AreaChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="AreaChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="AreaChart">
       <envs />
     </configuration>
-    <configuration name="AreaChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="AreaChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="AreaChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="AreaChart_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="Audio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Audio" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="Audio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Audio" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="Audio">
       <envs />
     </configuration>
-    <configuration name="Audio_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Audio_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="Audio_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Audio_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="BarChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="BarChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="BarChart">
       <envs />
     </configuration>
-    <configuration name="BarChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="BarChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarChart_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="BarModelMapper" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarModelMapper" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="BarModelMapper" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarModelMapper" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="BarModelMapper">
       <envs />
     </configuration>
-    <configuration name="BarModelMapper_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarModelMapper_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="BarModelMapper_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarModelMapper_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="BoxPlotChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BoxPlotChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="BoxPlotChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BoxPlotChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="BoxPlotChart">
       <envs />
     </configuration>
-    <configuration name="BoxPlotChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BoxPlotChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="BoxPlotChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BoxPlotChart_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
     <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis" EXPLICIT_BUILD_TARGET_NAME="all">
       <envs />
     </configuration>
-    <configuration name="Callout" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Callout" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="Callout" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Callout" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="Callout">
       <envs />
     </configuration>
-    <configuration name="Callout_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Callout_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="Callout_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Callout_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="CandleStick" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CandleStick" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="CandleStick" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CandleStick" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="CandleStick">
       <envs />
     </configuration>
-    <configuration name="CandleStick_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CandleStick_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="CandleStick_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CandleStick_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="ChartInteractions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartInteractions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="ChartInteractions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartInteractions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="ChartInteractions">
       <envs />
     </configuration>
-    <configuration name="ChartInteractions_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartInteractions_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="ChartInteractions_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartInteractions_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="ChartThemes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartThemes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="ChartThemes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartThemes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="ChartThemes">
       <envs />
     </configuration>
-    <configuration name="ChartThemes_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartThemes_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="ChartThemes_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartThemes_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="CustomChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CustomChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
+    <configuration name="CustomChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CustomChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="CustomChart">
       <envs />
     </configuration>
     <configuration name="CustomChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CustomChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
@@ -556,97 +556,97 @@
     <configuration name="PercentBarChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PercentBarChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="PercentBarChart">
       <envs />
     </configuration>
-    <configuration name="PercentBarChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PercentBarChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="PercentBarChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PercentBarChart_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="PieChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PieChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="PieChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PieChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="PieChart">
       <envs />
     </configuration>
-    <configuration name="PieChartCustomization" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PieChartCustomization" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="PieChartCustomization" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PieChartCustomization" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="PieChartCustomization">
       <envs />
     </configuration>
-    <configuration name="PieChartCustomization_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PieChartCustomization_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="PieChartCustomization_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PieChartCustomization_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="PieChartDrillDown" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PieChartDrillDown" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="PieChartDrillDown" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PieChartDrillDown" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="PieChartDrillDown">
       <envs />
     </configuration>
-    <configuration name="PieChartDrillDown_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PieChartDrillDown_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="PieChartDrillDown_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PieChartDrillDown_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="PieChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PieChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="PieChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PieChart_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="PolarChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PolarChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="PolarChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PolarChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="PolarChart">
       <envs />
     </configuration>
-    <configuration name="PolarChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PolarChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="PolarChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="PolarChart_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="QMLAxes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLAxes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLAxes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLAxes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="QMLAxes">
       <envs />
     </configuration>
-    <configuration name="QMLAxes_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLAxes_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLAxes_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLAxes_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="QMLBoxPlot" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLBoxPlot" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLBoxPlot" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLBoxPlot" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="QMLBoxPlot">
       <envs />
     </configuration>
-    <configuration name="QMLBoxPlot_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLBoxPlot_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLBoxPlot_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLBoxPlot_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="QMLCandleStick" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLCandleStick" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLCandleStick" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLCandleStick" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="QMLCandleStick">
       <envs />
     </configuration>
-    <configuration name="QMLCandleStick_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLCandleStick_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLCandleStick_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLCandleStick_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="QMLChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="QMLChart">
       <envs />
     </configuration>
-    <configuration name="QMLChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLChart_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="QMLCustomLegend" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLCustomLegend" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLCustomLegend" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLCustomLegend" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="QMLCustomLegend">
       <envs />
     </configuration>
-    <configuration name="QMLCustomLegend_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLCustomLegend_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLCustomLegend_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLCustomLegend_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="QMLCustomization" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLCustomization" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLCustomization" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLCustomization" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="QMLCustomization">
       <envs />
     </configuration>
-    <configuration name="QMLCustomization_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLCustomization_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLCustomization_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLCustomization_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="QMLF1Legend" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLF1Legend" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLF1Legend" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLF1Legend" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="QMLF1Legend">
       <envs />
     </configuration>
-    <configuration name="QMLF1Legend_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLF1Legend_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLF1Legend_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLF1Legend_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="QMLOscilloscope" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLOscilloscope" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLOscilloscope" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLOscilloscope" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="QMLOscilloscope">
       <envs />
     </configuration>
-    <configuration name="QMLOscilloscope_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLOscilloscope_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLOscilloscope_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLOscilloscope_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="QMLPieChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLPieChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLPieChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLPieChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="QMLPieChart">
       <envs />
     </configuration>
-    <configuration name="QMLPieChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLPieChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLPieChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLPieChart_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="QMLPolarChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLPolarChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLPolarChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLPolarChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="QMLPolarChart">
       <envs />
     </configuration>
-    <configuration name="QMLPolarChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLPolarChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLPolarChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLPolarChart_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
-    <configuration name="QMLWeather" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLWeather" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLWeather" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLWeather" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="QMLWeather">
       <envs />
     </configuration>
-    <configuration name="QMLWeather_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLWeather_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
+    <configuration name="QMLWeather_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="QMLWeather_autogen" CONFIG_NAME="Debug">
       <envs />
     </configuration>
     <configuration name="RealTimeCurve" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="RealTimeCurve" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="RealTimeCurve">
@@ -906,12 +906,12 @@
       <workItem from="1513948772215" duration="6698000" />
       <workItem from="1513974848225" duration="1612000" />
       <workItem from="1514019844016" duration="1812000" />
-      <workItem from="1514021806381" duration="4269000" />
+      <workItem from="1514021806381" duration="5374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31027000" />
+    <option name="totallyTimeSpent" value="32132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="22" width="1858" height="1058" extended-state="0" />
@@ -1333,7 +1333,7 @@
         <state relative-caret-position="415">
           <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="47" />
           <folding>
-            <element signature="e#0#59#0" expanded="true" />
+            <element signature="e#0#59#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1367,7 +1367,7 @@
     <entry file="file://$PROJECT_DIR$/python-examples/candlestickchart/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="66" column="9" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="66" selection-end-column="9" />
+          <caret line="66" column="9" lean-forward="false" selection-start-line="56" selection-start-column="4" selection-end-line="66" selection-end-column="9" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
@@ -1401,7 +1401,7 @@
     <entry file="file://$PROJECT_DIR$/python-examples/dynamicspline/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="12" />
+          <caret line="11" column="12" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="12" />
           <folding>
             <element signature="e#0#56#0" expanded="true" />
           </folding>
@@ -1418,8 +1418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python-examples/datetimeaxis/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1058">
-          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        <state relative-caret-position="299">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding>
             <element signature="e#0#87#0" expanded="true" />
           </folding>
