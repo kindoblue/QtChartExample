@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD 11)
 
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTOUIC ON)
 
 # brew install qt5
 # brew link --force qt5 && ln -s /usr/local/Cellar/qt5/5.9.3/mkspecs /usr/local/mkspecs &&
@@ -161,6 +162,10 @@ add_executable(ZoomLineChart qtcharts/examples/charts/zoomlinechart/main.cpp
 add_executable(RealTimeCurve other-examples/realtimecurve/main.cpp
         other-examples/realtimecurve/RealTimeCurveQChartWidget.cpp)
 
+add_executable(Graphs other-examples/graphs/main.cpp
+        other-examples/graphs/widget.cpp
+        other-examples/graphs/widget.ui)
+
 target_link_libraries(AreaChart Qt5::Core Qt5::Widgets Qt5::Charts)
 target_link_libraries(Audio Qt5::Core Qt5::Widgets Qt5::Charts Qt5::Multimedia)
 target_link_libraries(BarChart Qt5::Core Qt5::Widgets Qt5::Charts)
@@ -211,3 +216,4 @@ target_link_libraries(StackedBarChartDrilldown Qt5::Core Qt5::Widgets Qt5::Chart
 target_link_libraries(TemperatureRecords Qt5::Core Qt5::Widgets Qt5::Charts)
 target_link_libraries(ZoomLineChart Qt5::Core Qt5::Widgets Qt5::Charts)
 target_link_libraries(RealTimeCurve Qt5::Core Qt5::Widgets Qt5::Charts)
+target_link_libraries(Graphs Qt5::Core Qt5::Widgets Qt5::Charts)
