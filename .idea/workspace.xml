@@ -113,7 +113,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd3e73d7-02a1-4dec-a818-a8d9fd2d7006" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/python-examples/datetimeaxis/main.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -123,75 +124,98 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="RealTimeCurveQChartWidget.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/other-examples/realtimecurve/RealTimeCurveQChartWidget.cpp">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python-examples/datetimeaxis/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/other-examples/realtimecurve/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/other-examples/graphs/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="1058">
+              <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
               <folding>
-                <element signature="e#62#81#0" expanded="true" />
+                <element signature="e#0#87#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="widget.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/other-examples/graphs/widget.cpp">
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/CLion2017.3/python_stubs/1640101392/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1311">
-              <caret line="57" column="52" lean-forward="false" selection-start-line="57" selection-start-column="52" selection-end-line="57" selection-end-column="52" />
+            <state relative-caret-position="132">
+              <caret line="4976" column="8" lean-forward="false" selection-start-line="4976" selection-start-column="8" selection-end-line="4976" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/coin/lib/python3.6/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-examples/candlestickchart/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="66" column="9" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="66" selection-end-column="9" />
               <folding>
-                <element signature="e#63#82#0" expanded="true" />
+                <element signature="e#0#27#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="widget.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/other-examples/graphs/widget.h">
+      <file leaf-file-name="candlestickdatareader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-examples/candlestickchart/candlestickdatareader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="263">
+              <caret line="19" column="63" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="63" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-examples/dynamicspline/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qtcharts/examples/charts/datetimeaxis/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <file leaf-file-name="sun_spots.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-examples/datetimeaxis/sun_spots.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1771">
-              <caret line="218" column="0" lean-forward="false" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+            <state relative-caret-position="759">
+              <caret line="43" column="8" lean-forward="false" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mocs_compilation.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cmake-build-debug/Graphs_autogen/mocs_compilation.cpp">
+      <file leaf-file-name="sundata.qrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qtcharts/examples/charts/datetimeaxis/sundata.qrc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -200,33 +224,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="moc_widget.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cmake-build-debug/Graphs_autogen/XNRNIBZTV7/moc_widget.cpp">
+      <file leaf-file-name="sun_spots.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qtcharts/examples/charts/datetimeaxis/sun_spots.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RealTimeCurveQChartWidget.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/other-examples/realtimecurve/RealTimeCurveQChartWidget.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding>
-                <element signature="e#194#222#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qtcharts/examples/charts/areachart/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -244,6 +246,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Graphs</find>
+      <find>qsrand</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/qtcharts/examples/charts/scatterchart</dir>
@@ -268,6 +271,8 @@
         <option value="$PROJECT_DIR$/other-examples/graphs/main.cpp" />
         <option value="$PROJECT_DIR$/other-examples/graphs/widget.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/qtcharts/examples/charts/datetimeaxis/main.cpp" />
+        <option value="$PROJECT_DIR$/python-examples/datetimeaxis/main.py" />
       </list>
     </option>
   </component>
@@ -314,14 +319,25 @@
             <path>
               <item name="QtChartExample" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="QtChartExample" type="462c0819:PsiDirectoryNode" />
-              <item name="other-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="python-examples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="QtChartExample" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="QtChartExample" type="462c0819:PsiDirectoryNode" />
-              <item name="other-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="realtimecurve" type="462c0819:PsiDirectoryNode" />
+              <item name="python-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="candlestickchart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QtChartExample" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="QtChartExample" type="462c0819:PsiDirectoryNode" />
+              <item name="python-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="datetimeaxis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QtChartExample" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="QtChartExample" type="462c0819:PsiDirectoryNode" />
+              <item name="python-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicspline" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="QtChartExample" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
@@ -347,7 +363,7 @@
               <item name="qtcharts" type="462c0819:PsiDirectoryNode" />
               <item name="examples" type="462c0819:PsiDirectoryNode" />
               <item name="charts" type="462c0819:PsiDirectoryNode" />
-              <item name="areachart" type="462c0819:PsiDirectoryNode" />
+              <item name="datetimeaxis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -371,68 +387,68 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AreaChart">
-    <configuration name="AreaChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="AreaChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="AreaChart">
+  <component name="RunManager" selected="Python.DatetimeAxis">
+    <configuration name="AreaChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="AreaChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="AreaChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="AreaChart_autogen" CONFIG_NAME="Debug">
+    <configuration name="AreaChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="AreaChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="Audio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Audio" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="Audio">
+    <configuration name="Audio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Audio" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="Audio_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Audio_autogen" CONFIG_NAME="Debug">
+    <configuration name="Audio_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Audio_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="BarChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="BarChart">
+    <configuration name="BarChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="BarChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="BarChart">
+    <configuration name="BarChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="BarModelMapper" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarModelMapper" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="BarModelMapper">
+    <configuration name="BarModelMapper" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarModelMapper" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="BarModelMapper_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarModelMapper_autogen" CONFIG_NAME="Debug">
+    <configuration name="BarModelMapper_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BarModelMapper_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="BoxPlotChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BoxPlotChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="BoxPlotChart">
+    <configuration name="BoxPlotChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BoxPlotChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="BoxPlotChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BoxPlotChart_autogen" CONFIG_NAME="Debug">
+    <configuration name="BoxPlotChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="BoxPlotChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="Graphs" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis" EXPLICIT_BUILD_TARGET_NAME="all">
       <envs />
     </configuration>
-    <configuration name="Callout" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Callout" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="Callout">
+    <configuration name="Callout" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Callout" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="Callout_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Callout_autogen" CONFIG_NAME="Debug">
+    <configuration name="Callout_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="Callout_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="CandleStick" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CandleStick" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="CandleStick">
+    <configuration name="CandleStick" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CandleStick" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="CandleStick_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CandleStick_autogen" CONFIG_NAME="Debug">
+    <configuration name="CandleStick_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CandleStick_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="ChartInteractions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartInteractions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="ChartInteractions">
+    <configuration name="ChartInteractions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartInteractions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="ChartInteractions_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartInteractions_autogen" CONFIG_NAME="Debug">
+    <configuration name="ChartInteractions_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartInteractions_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="ChartThemes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartThemes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="ChartThemes">
+    <configuration name="ChartThemes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartThemes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="ChartThemes_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartThemes_autogen" CONFIG_NAME="Debug">
+    <configuration name="ChartThemes_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="ChartThemes_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="CustomChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CustomChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="CustomChart">
+    <configuration name="CustomChart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CustomChart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
-    <configuration name="CustomChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CustomChart_autogen" CONFIG_NAME="Debug">
+    <configuration name="CustomChart_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="CustomChart_autogen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
       <envs />
     </configuration>
     <configuration name="DateTimeAxis" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QtChartExample" TARGET_NAME="DateTimeAxis" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QtChartExample" RUN_TARGET_NAME="DateTimeAxis">
@@ -699,6 +715,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="DatetimeAxis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/coin/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-examples/datetimeaxis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QtChartExample" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-examples/datetimeaxis/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="DynamicSpline" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -735,118 +769,120 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="106">
-      <item index="0" class="java.lang.String" itemvalue="Python.CandleStick" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Build All" />
-      <item index="2" class="java.lang.String" itemvalue="Application.AreaChart" />
-      <item index="3" class="java.lang.String" itemvalue="Application.AreaChart_autogen" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Audio" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Audio_autogen" />
-      <item index="6" class="java.lang.String" itemvalue="Application.BarChart" />
-      <item index="7" class="java.lang.String" itemvalue="Application.BarChart_autogen" />
-      <item index="8" class="java.lang.String" itemvalue="Application.BarModelMapper" />
-      <item index="9" class="java.lang.String" itemvalue="Application.BarModelMapper_autogen" />
-      <item index="10" class="java.lang.String" itemvalue="Application.BoxPlotChart" />
-      <item index="11" class="java.lang.String" itemvalue="Application.BoxPlotChart_autogen" />
-      <item index="12" class="java.lang.String" itemvalue="Application.Callout" />
-      <item index="13" class="java.lang.String" itemvalue="Application.Callout_autogen" />
-      <item index="14" class="java.lang.String" itemvalue="Application.CandleStick" />
-      <item index="15" class="java.lang.String" itemvalue="Application.CandleStick_autogen" />
-      <item index="16" class="java.lang.String" itemvalue="Application.ChartInteractions" />
-      <item index="17" class="java.lang.String" itemvalue="Application.ChartInteractions_autogen" />
-      <item index="18" class="java.lang.String" itemvalue="Application.ChartThemes" />
-      <item index="19" class="java.lang.String" itemvalue="Application.ChartThemes_autogen" />
-      <item index="20" class="java.lang.String" itemvalue="Application.CustomChart" />
-      <item index="21" class="java.lang.String" itemvalue="Application.CustomChart_autogen" />
-      <item index="22" class="java.lang.String" itemvalue="Application.DateTimeAxis" />
-      <item index="23" class="java.lang.String" itemvalue="Application.DateTimeAxis_autogen" />
-      <item index="24" class="java.lang.String" itemvalue="Application.DonutBreakdown" />
-      <item index="25" class="java.lang.String" itemvalue="Application.DonutBreakdown_autogen" />
-      <item index="26" class="java.lang.String" itemvalue="Application.DonutChart" />
-      <item index="27" class="java.lang.String" itemvalue="Application.DonutChart_autogen" />
-      <item index="28" class="java.lang.String" itemvalue="Application.DynamicSpline" />
-      <item index="29" class="java.lang.String" itemvalue="Application.DynamicSpline_autogen" />
-      <item index="30" class="java.lang.String" itemvalue="Application.Graphs" />
-      <item index="31" class="java.lang.String" itemvalue="Application.Graphs_autogen" />
-      <item index="32" class="java.lang.String" itemvalue="Application.HorizontalBarChart" />
-      <item index="33" class="java.lang.String" itemvalue="Application.HorizontalBarChart_autogen" />
-      <item index="34" class="java.lang.String" itemvalue="Application.HorizontalPercentBarChart" />
-      <item index="35" class="java.lang.String" itemvalue="Application.HorizontalPercentBarChart_autogen" />
-      <item index="36" class="java.lang.String" itemvalue="Application.HorizontalStackedBarChart" />
-      <item index="37" class="java.lang.String" itemvalue="Application.HorizontalStackedBarChart_autogen" />
-      <item index="38" class="java.lang.String" itemvalue="Application.Legend" />
-      <item index="39" class="java.lang.String" itemvalue="Application.Legend_autogen" />
-      <item index="40" class="java.lang.String" itemvalue="Application.LegendMarkers" />
-      <item index="41" class="java.lang.String" itemvalue="Application.LegendMarkers_autogen" />
-      <item index="42" class="java.lang.String" itemvalue="Application.LineAndBar" />
-      <item index="43" class="java.lang.String" itemvalue="Application.LineAndBar_autogen" />
-      <item index="44" class="java.lang.String" itemvalue="Application.LineChart" />
-      <item index="45" class="java.lang.String" itemvalue="Application.LineChart_autogen" />
-      <item index="46" class="java.lang.String" itemvalue="Application.LogValueAxis" />
-      <item index="47" class="java.lang.String" itemvalue="Application.LogValueAxis_autogen" />
-      <item index="48" class="java.lang.String" itemvalue="Application.ModelData" />
-      <item index="49" class="java.lang.String" itemvalue="Application.ModelData_autogen" />
-      <item index="50" class="java.lang.String" itemvalue="Application.MultiAxis" />
-      <item index="51" class="java.lang.String" itemvalue="Application.MultiAxis_autogen" />
-      <item index="52" class="java.lang.String" itemvalue="Application.NestedDonut" />
-      <item index="53" class="java.lang.String" itemvalue="Application.NestedDonut_autogen" />
-      <item index="54" class="java.lang.String" itemvalue="Application.OpenGLSeries" />
-      <item index="55" class="java.lang.String" itemvalue="Application.OpenGLSeries_autogen" />
-      <item index="56" class="java.lang.String" itemvalue="Application.PercentBarChart" />
-      <item index="57" class="java.lang.String" itemvalue="Application.PercentBarChart_autogen" />
-      <item index="58" class="java.lang.String" itemvalue="Application.PieChart" />
-      <item index="59" class="java.lang.String" itemvalue="Application.PieChart_autogen" />
-      <item index="60" class="java.lang.String" itemvalue="Application.PieChartCustomization" />
-      <item index="61" class="java.lang.String" itemvalue="Application.PieChartCustomization_autogen" />
-      <item index="62" class="java.lang.String" itemvalue="Application.PieChartDrillDown" />
-      <item index="63" class="java.lang.String" itemvalue="Application.PieChartDrillDown_autogen" />
-      <item index="64" class="java.lang.String" itemvalue="Application.PolarChart" />
-      <item index="65" class="java.lang.String" itemvalue="Application.PolarChart_autogen" />
-      <item index="66" class="java.lang.String" itemvalue="Application.QMLAxes" />
-      <item index="67" class="java.lang.String" itemvalue="Application.QMLAxes_autogen" />
-      <item index="68" class="java.lang.String" itemvalue="Application.QMLBoxPlot" />
-      <item index="69" class="java.lang.String" itemvalue="Application.QMLBoxPlot_autogen" />
-      <item index="70" class="java.lang.String" itemvalue="Application.QMLCandleStick" />
-      <item index="71" class="java.lang.String" itemvalue="Application.QMLCandleStick_autogen" />
-      <item index="72" class="java.lang.String" itemvalue="Application.QMLChart" />
-      <item index="73" class="java.lang.String" itemvalue="Application.QMLChart_autogen" />
-      <item index="74" class="java.lang.String" itemvalue="Application.QMLCustomization" />
-      <item index="75" class="java.lang.String" itemvalue="Application.QMLCustomization_autogen" />
-      <item index="76" class="java.lang.String" itemvalue="Application.QMLCustomLegend" />
-      <item index="77" class="java.lang.String" itemvalue="Application.QMLCustomLegend_autogen" />
-      <item index="78" class="java.lang.String" itemvalue="Application.QMLF1Legend" />
-      <item index="79" class="java.lang.String" itemvalue="Application.QMLF1Legend_autogen" />
-      <item index="80" class="java.lang.String" itemvalue="Application.QMLOscilloscope" />
-      <item index="81" class="java.lang.String" itemvalue="Application.QMLOscilloscope_autogen" />
-      <item index="82" class="java.lang.String" itemvalue="Application.QMLPieChart" />
-      <item index="83" class="java.lang.String" itemvalue="Application.QMLPieChart_autogen" />
-      <item index="84" class="java.lang.String" itemvalue="Application.QMLPolarChart" />
-      <item index="85" class="java.lang.String" itemvalue="Application.QMLPolarChart_autogen" />
-      <item index="86" class="java.lang.String" itemvalue="Application.QMLWeather" />
-      <item index="87" class="java.lang.String" itemvalue="Application.QMLWeather_autogen" />
-      <item index="88" class="java.lang.String" itemvalue="Application.RealTimeCurve" />
-      <item index="89" class="java.lang.String" itemvalue="Application.RealTimeCurve_autogen" />
-      <item index="90" class="java.lang.String" itemvalue="Application.ScatterChart" />
-      <item index="91" class="java.lang.String" itemvalue="Application.ScatterChart_autogen" />
-      <item index="92" class="java.lang.String" itemvalue="Application.ScatterInteractions" />
-      <item index="93" class="java.lang.String" itemvalue="Application.ScatterInteractions_autogen" />
-      <item index="94" class="java.lang.String" itemvalue="Application.SplineChart" />
-      <item index="95" class="java.lang.String" itemvalue="Application.SplineChart_autogen" />
-      <item index="96" class="java.lang.String" itemvalue="Application.StackedBarChart" />
-      <item index="97" class="java.lang.String" itemvalue="Application.StackedBarChart_autogen" />
-      <item index="98" class="java.lang.String" itemvalue="Application.StackedBarChartDrilldown" />
-      <item index="99" class="java.lang.String" itemvalue="Application.StackedBarChartDrilldown_autogen" />
-      <item index="100" class="java.lang.String" itemvalue="Application.TemperatureRecords" />
-      <item index="101" class="java.lang.String" itemvalue="Application.TemperatureRecords_autogen" />
-      <item index="102" class="java.lang.String" itemvalue="Application.ZoomLineChart" />
-      <item index="103" class="java.lang.String" itemvalue="Application.ZoomLineChart_autogen" />
+    <list size="107">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AreaChart" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AreaChart_autogen" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Audio" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Audio_autogen" />
+      <item index="5" class="java.lang.String" itemvalue="Application.BarChart" />
+      <item index="6" class="java.lang.String" itemvalue="Application.BarChart_autogen" />
+      <item index="7" class="java.lang.String" itemvalue="Application.BarModelMapper" />
+      <item index="8" class="java.lang.String" itemvalue="Application.BarModelMapper_autogen" />
+      <item index="9" class="java.lang.String" itemvalue="Application.BoxPlotChart" />
+      <item index="10" class="java.lang.String" itemvalue="Application.BoxPlotChart_autogen" />
+      <item index="11" class="java.lang.String" itemvalue="Application.Callout" />
+      <item index="12" class="java.lang.String" itemvalue="Application.Callout_autogen" />
+      <item index="13" class="java.lang.String" itemvalue="Application.CandleStick" />
+      <item index="14" class="java.lang.String" itemvalue="Application.CandleStick_autogen" />
+      <item index="15" class="java.lang.String" itemvalue="Application.ChartInteractions" />
+      <item index="16" class="java.lang.String" itemvalue="Application.ChartInteractions_autogen" />
+      <item index="17" class="java.lang.String" itemvalue="Application.ChartThemes" />
+      <item index="18" class="java.lang.String" itemvalue="Application.ChartThemes_autogen" />
+      <item index="19" class="java.lang.String" itemvalue="Application.CustomChart" />
+      <item index="20" class="java.lang.String" itemvalue="Application.CustomChart_autogen" />
+      <item index="21" class="java.lang.String" itemvalue="Application.DateTimeAxis" />
+      <item index="22" class="java.lang.String" itemvalue="Application.DateTimeAxis_autogen" />
+      <item index="23" class="java.lang.String" itemvalue="Application.DonutBreakdown" />
+      <item index="24" class="java.lang.String" itemvalue="Application.DonutBreakdown_autogen" />
+      <item index="25" class="java.lang.String" itemvalue="Application.DonutChart" />
+      <item index="26" class="java.lang.String" itemvalue="Application.DonutChart_autogen" />
+      <item index="27" class="java.lang.String" itemvalue="Application.DynamicSpline" />
+      <item index="28" class="java.lang.String" itemvalue="Application.DynamicSpline_autogen" />
+      <item index="29" class="java.lang.String" itemvalue="Application.Graphs" />
+      <item index="30" class="java.lang.String" itemvalue="Application.Graphs_autogen" />
+      <item index="31" class="java.lang.String" itemvalue="Application.HorizontalBarChart" />
+      <item index="32" class="java.lang.String" itemvalue="Application.HorizontalBarChart_autogen" />
+      <item index="33" class="java.lang.String" itemvalue="Application.HorizontalPercentBarChart" />
+      <item index="34" class="java.lang.String" itemvalue="Application.HorizontalPercentBarChart_autogen" />
+      <item index="35" class="java.lang.String" itemvalue="Application.HorizontalStackedBarChart" />
+      <item index="36" class="java.lang.String" itemvalue="Application.HorizontalStackedBarChart_autogen" />
+      <item index="37" class="java.lang.String" itemvalue="Application.Legend" />
+      <item index="38" class="java.lang.String" itemvalue="Application.Legend_autogen" />
+      <item index="39" class="java.lang.String" itemvalue="Application.LegendMarkers" />
+      <item index="40" class="java.lang.String" itemvalue="Application.LegendMarkers_autogen" />
+      <item index="41" class="java.lang.String" itemvalue="Application.LineAndBar" />
+      <item index="42" class="java.lang.String" itemvalue="Application.LineAndBar_autogen" />
+      <item index="43" class="java.lang.String" itemvalue="Application.LineChart" />
+      <item index="44" class="java.lang.String" itemvalue="Application.LineChart_autogen" />
+      <item index="45" class="java.lang.String" itemvalue="Application.LogValueAxis" />
+      <item index="46" class="java.lang.String" itemvalue="Application.LogValueAxis_autogen" />
+      <item index="47" class="java.lang.String" itemvalue="Application.ModelData" />
+      <item index="48" class="java.lang.String" itemvalue="Application.ModelData_autogen" />
+      <item index="49" class="java.lang.String" itemvalue="Application.MultiAxis" />
+      <item index="50" class="java.lang.String" itemvalue="Application.MultiAxis_autogen" />
+      <item index="51" class="java.lang.String" itemvalue="Application.NestedDonut" />
+      <item index="52" class="java.lang.String" itemvalue="Application.NestedDonut_autogen" />
+      <item index="53" class="java.lang.String" itemvalue="Application.OpenGLSeries" />
+      <item index="54" class="java.lang.String" itemvalue="Application.OpenGLSeries_autogen" />
+      <item index="55" class="java.lang.String" itemvalue="Application.PercentBarChart" />
+      <item index="56" class="java.lang.String" itemvalue="Application.PercentBarChart_autogen" />
+      <item index="57" class="java.lang.String" itemvalue="Application.PieChart" />
+      <item index="58" class="java.lang.String" itemvalue="Application.PieChart_autogen" />
+      <item index="59" class="java.lang.String" itemvalue="Application.PieChartCustomization" />
+      <item index="60" class="java.lang.String" itemvalue="Application.PieChartCustomization_autogen" />
+      <item index="61" class="java.lang.String" itemvalue="Application.PieChartDrillDown" />
+      <item index="62" class="java.lang.String" itemvalue="Application.PieChartDrillDown_autogen" />
+      <item index="63" class="java.lang.String" itemvalue="Application.PolarChart" />
+      <item index="64" class="java.lang.String" itemvalue="Application.PolarChart_autogen" />
+      <item index="65" class="java.lang.String" itemvalue="Application.QMLAxes" />
+      <item index="66" class="java.lang.String" itemvalue="Application.QMLAxes_autogen" />
+      <item index="67" class="java.lang.String" itemvalue="Application.QMLBoxPlot" />
+      <item index="68" class="java.lang.String" itemvalue="Application.QMLBoxPlot_autogen" />
+      <item index="69" class="java.lang.String" itemvalue="Application.QMLCandleStick" />
+      <item index="70" class="java.lang.String" itemvalue="Application.QMLCandleStick_autogen" />
+      <item index="71" class="java.lang.String" itemvalue="Application.QMLChart" />
+      <item index="72" class="java.lang.String" itemvalue="Application.QMLChart_autogen" />
+      <item index="73" class="java.lang.String" itemvalue="Application.QMLCustomization" />
+      <item index="74" class="java.lang.String" itemvalue="Application.QMLCustomization_autogen" />
+      <item index="75" class="java.lang.String" itemvalue="Application.QMLCustomLegend" />
+      <item index="76" class="java.lang.String" itemvalue="Application.QMLCustomLegend_autogen" />
+      <item index="77" class="java.lang.String" itemvalue="Application.QMLF1Legend" />
+      <item index="78" class="java.lang.String" itemvalue="Application.QMLF1Legend_autogen" />
+      <item index="79" class="java.lang.String" itemvalue="Application.QMLOscilloscope" />
+      <item index="80" class="java.lang.String" itemvalue="Application.QMLOscilloscope_autogen" />
+      <item index="81" class="java.lang.String" itemvalue="Application.QMLPieChart" />
+      <item index="82" class="java.lang.String" itemvalue="Application.QMLPieChart_autogen" />
+      <item index="83" class="java.lang.String" itemvalue="Application.QMLPolarChart" />
+      <item index="84" class="java.lang.String" itemvalue="Application.QMLPolarChart_autogen" />
+      <item index="85" class="java.lang.String" itemvalue="Application.QMLWeather" />
+      <item index="86" class="java.lang.String" itemvalue="Application.QMLWeather_autogen" />
+      <item index="87" class="java.lang.String" itemvalue="Application.RealTimeCurve" />
+      <item index="88" class="java.lang.String" itemvalue="Application.RealTimeCurve_autogen" />
+      <item index="89" class="java.lang.String" itemvalue="Application.ScatterChart" />
+      <item index="90" class="java.lang.String" itemvalue="Application.ScatterChart_autogen" />
+      <item index="91" class="java.lang.String" itemvalue="Application.ScatterInteractions" />
+      <item index="92" class="java.lang.String" itemvalue="Application.ScatterInteractions_autogen" />
+      <item index="93" class="java.lang.String" itemvalue="Application.SplineChart" />
+      <item index="94" class="java.lang.String" itemvalue="Application.SplineChart_autogen" />
+      <item index="95" class="java.lang.String" itemvalue="Application.StackedBarChart" />
+      <item index="96" class="java.lang.String" itemvalue="Application.StackedBarChart_autogen" />
+      <item index="97" class="java.lang.String" itemvalue="Application.StackedBarChartDrilldown" />
+      <item index="98" class="java.lang.String" itemvalue="Application.StackedBarChartDrilldown_autogen" />
+      <item index="99" class="java.lang.String" itemvalue="Application.TemperatureRecords" />
+      <item index="100" class="java.lang.String" itemvalue="Application.TemperatureRecords_autogen" />
+      <item index="101" class="java.lang.String" itemvalue="Application.ZoomLineChart" />
+      <item index="102" class="java.lang.String" itemvalue="Application.ZoomLineChart_autogen" />
+      <item index="103" class="java.lang.String" itemvalue="Python.CandleStick" />
       <item index="104" class="java.lang.String" itemvalue="Python.ZoomLineChart" />
       <item index="105" class="java.lang.String" itemvalue="Python.DynamicSpline" />
+      <item index="106" class="java.lang.String" itemvalue="Python.DatetimeAxis" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.DynamicSpline" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ZoomLineChart" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.DatetimeAxis" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DynamicSpline" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ZoomLineChart" />
       </list>
     </recent_temporary>
   </component>
@@ -870,12 +906,12 @@
       <workItem from="1513948772215" duration="6698000" />
       <workItem from="1513974848225" duration="1612000" />
       <workItem from="1514019844016" duration="1812000" />
-      <workItem from="1514021806381" duration="854000" />
+      <workItem from="1514021806381" duration="4269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27612000" />
+    <option name="totallyTimeSpent" value="31027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="22" width="1858" height="1058" extended-state="0" />
@@ -921,12 +957,27 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="33" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="37" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>values[4]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>line.split(' ')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>event.gesture(Qt.PanGesture)</expression-string>
         <language-id>Python</language-id>
@@ -967,66 +1018,9 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>event.key()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python-examples/zoomlinechart/chartview.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qtcharts/examples/charts/zoomlinechart/chartview.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1196">
-          <caret line="52" column="21" lean-forward="false" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-examples/candlestickchart/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="57" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/coin/lib/python3.6/site-packages/PyQt5/QtCore.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63043">
-          <caret line="2741" column="4" lean-forward="false" selection-start-line="2741" selection-start-column="4" selection-end-line="2741" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-examples/zoomlinechart/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#36#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qtcharts/examples/charts/zoomlinechart/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/QtCore.framework/Headers/qglobal.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26427">
-          <caret line="1149" column="18" lean-forward="false" selection-start-line="1149" selection-start-column="18" selection-end-line="1149" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/qtcharts/examples/charts/zoomlinechart/chart.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
@@ -1094,13 +1088,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-examples/candlestickchart/candlestickdatareader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/qtcharts/examples/charts/zoomlinechart/chartview.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
@@ -1165,13 +1152,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-examples/candlestickchart/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1079">
-          <caret line="2" column="57" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/qtcharts/examples/charts/dynamicspline/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
@@ -1197,13 +1177,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1242">
           <caret line="54" column="7" lean-forward="false" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-examples/dynamicspline/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1235,16 +1208,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1725">
           <caret line="75" column="21" lean-forward="false" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-examples/dynamicspline/chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#59#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1362,6 +1325,104 @@
         <state relative-caret-position="1771">
           <caret line="218" column="0" lean-forward="false" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-examples/dynamicspline/chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qtcharts/examples/charts/datetimeaxis/sundata.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qtcharts/examples/charts/datetimeaxis/sun_spots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-examples/candlestickchart/candlestickdatareader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="19" column="63" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-examples/candlestickchart/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="66" column="9" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="66" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/coin/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-examples/datetimeaxis/sun_spots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="43" column="8" lean-forward="false" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/CLion2017.3/python_stubs/1640101392/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4976" column="8" lean-forward="false" selection-start-line="4976" selection-start-column="8" selection-end-line="4976" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-examples/dynamicspline/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qtcharts/examples/charts/datetimeaxis/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-examples/datetimeaxis/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#87#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
